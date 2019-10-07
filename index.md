@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Jekyll
 sections:
 - type: heroblock
   template: heroblock
