@@ -4,7 +4,7 @@ sections:
   - type: heroblock
     template: heroblock
     section_id: hero
-    title: This Is A Big Hero Headline!
+    title: This Is A Big Hero Headline!?
     component: hero_block.html
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
