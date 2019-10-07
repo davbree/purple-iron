@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url: http://3.231.60.175/__refresh
+webhook_url: http://18.232.117.243/__refresh
 sections:
 - type: document
   path: _config.yml
